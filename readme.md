@@ -1,11 +1,3 @@
-------------------------------------------------------
-Template Name: Poca - Podcast & Audio Template
-Template Author: Colorlib
-Template Author URI: https://colorlib.com
-Version: 1.0.0
-Last Update: Dec 15, 2018
------------------------------------------------------
-
 --------------------------------
 To start 'Gulp' => npm run start
 --------------------------------
